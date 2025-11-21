@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Concrete Expert AI",
+  "description": "A specialized AI chatbot expert in concrete, construction materials, and civil engineering.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
